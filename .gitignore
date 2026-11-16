@@ -1,0 +1,8 @@
+.DS_Store
+._*
+node_modules/
+vendor/
+renders/
+private-upload.json
+*.tgz
+*.log
